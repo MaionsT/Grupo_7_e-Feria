@@ -4,19 +4,22 @@
 Nuestro Market Place se dedica a promover y difundir una amplia gama de productos, ideas y emprendimientos, ofreciendo un ecommerce de alcance nacional. Inspirados en plataformas exitosas como Etsy, MercadoLibre, AliExpress y Amazon, nuestro sitio se ha diseñado para fomentar el crecimiento y el éxito de las Micro, Pequeñas y Medianas Empresas (MiPyMEs) y emprendedores de todo el país.
 
 ##Qué ofrecemos:
--*Publicación de Artículos*: Brindamos a los emprendedores y MiPyMEs la posibilidad de dar a conocer sus productos a una audiencia diversa y creciente.
+   -*Publicación de Artículos*: 
+   Brindamos a los emprendedores y MiPyMEs la posibilidad de dar a conocer sus productos a una audiencia diversa y creciente.
 
--*Mayor Difusión*: Proporcionamos un espacio donde los vendedores pueden aumentar la visibilidad de sus productos y marcas. Contamos con herramientas de promoción y marketing que ayudan a destacar su presencia en línea.
+   -*Mayor Difusión*: 
+   Proporcionamos un espacio donde los vendedores pueden aumentar la visibilidad de sus productos y marcas. Contamos con herramientas de promoción y marketing que ayudan a destacar su presencia en línea.
 
--*Envíos simplificados*: :rocket: `:rocket:` Nuestra plataforma permite la publicación de artículos de manera sencilla y efectiva, a bajo costo y con distintas opciones de logística.
+   -*Envíos simplificados*: :rocket: `:rocket:` 
+   Nuestra plataforma permite la publicación de artículos de manera sencilla y efectiva, a bajo costo y con distintas opciones de logística.
 
 ##Nuestro público:
 Juntamos dos segmentos importantes del mercado. Por un lado, los **Emprendedores y MiPyMEs** que necesitan difundir su oferta y por el otro, **compradores** interesados en productos únicos y artesanales que buscan productos de calidad y desean apoyar a emprendedores locales. Además, nuestro enfoque nacional garantiza que todos los rincones del país tengan acceso a nuestra plataforma.
 
-:bulb: `:bulb:`##Quiénes somos:
+##Quiénes somos:
 Somos un equipo de desarrolladores full-stack de Santiago del Estero, Argentina. Compuesto por: Angel Asaf, Anabel Alvarado, Marcos Díaz y Alejandro Mayhua.
 
-##Sitios de referencia que tomamos de inspiración y guía para nuestro sitio:
+:bulb: `:bulb:` ##Sitios de referencia que tomamos de inspiración y guía para nuestro sitio:
 
 1. *Etsy*: Este sitio es nuestra principal fuente de inspiración debido a su alineación con nuestros objetivos y públicos. Etsy logró crear una comunidad global que se enfoca en un público diverso de emprendedores y compradores en busca de productos únicos.
    [Link de Etsy](https://www.etsy.com/)
